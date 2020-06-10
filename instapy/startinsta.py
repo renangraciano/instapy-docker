@@ -1,4 +1,3 @@
-#!/home/trigger/Projeto/instapy/.venv/bin/python
 from instapy import InstaPy
 
 session = InstaPy(username="${instauser}",password="${instapass}",headless_browser=True)
